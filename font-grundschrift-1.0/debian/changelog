@@ -1,0 +1,11 @@
+font-grundschrift (1.0-1ubuntu1) UNRELEASED; urgency=medium
+
+  * initial version
+
+ -- Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>  Wed, 01 Aug 2018 17:20:06 +0200
+
+font-grundschrift (1.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Basil Stotz <stotz@amxa.ch>  Wed, 01 Aug 2018 17:11:23 +0200

@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 01 Aug 2018 17:20:06 +0200
+Source: font-grundschrift
+Binary: font-grundschrift
+Architecture: source all
+Version: 1.0-1ubuntu1
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>
+Description: 
+ font-grundschrift - font-grundschrift
+Changes: 
+ font-grundschrift (1.0-1ubuntu1) UNRELEASED; urgency=medium
+ .
+   * initial version
+Checksums-Sha1: 
+ 4f80b4167c662ec3f215fc221ae84a0e695ac321 630 font-grundschrift_1.0-1ubuntu1.dsc
+ a235cb19230b66c41e3f71b1b39dc76a783bcf40 133738 font-grundschrift_1.0-1ubuntu1.tar.gz
+ 6848b243c778899dbdaa4349712b7107dcbc4448 112674 font-grundschrift_1.0-1ubuntu1_all.deb
+Checksums-Sha256: 
+ 768af99b4c569f26a6c7515e1416249bedf9004b587a136eb28dbdbaaa0f0461 630 font-grundschrift_1.0-1ubuntu1.dsc
+ 1b2a4f066f762263b1aed3b5696712652587cb978725e433fb9454b30929f1c3 133738 font-grundschrift_1.0-1ubuntu1.tar.gz
+ 7eef698be552c5e09c7d759a182e219fe9f22dad42077acf9000d6c3b2c674f4 112674 font-grundschrift_1.0-1ubuntu1_all.deb
+Files: 
+ ce1092363329923011aee9c662835bbe 630 unknown optional font-grundschrift_1.0-1ubuntu1.dsc
+ 85d8e97d5926f1ae389e271bbf8a3881 133738 unknown optional font-grundschrift_1.0-1ubuntu1.tar.gz
+ bbab996254d848d274d46c69e443104f 112674 unknown optional font-grundschrift_1.0-1ubuntu1_all.deb
